@@ -1,8 +1,5 @@
-main: cat.kotuk606.catpluginapi.Cat
+main: cat.meowkotuk606.lib.Cat
 name: CatLib
 api-version: 1.16
-version: 1.0
-author: Kotuk606
-commands:
-  catpluginsreload:
-    description: reload
+version: 2.0
+author: MeowKotuk606
